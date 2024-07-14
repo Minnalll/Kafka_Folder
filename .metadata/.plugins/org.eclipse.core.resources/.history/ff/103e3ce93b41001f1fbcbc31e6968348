@@ -1,0 +1,5 @@
+package com.springboot.kafka.json.springboot_kafka_tutorial.config;
+
+public class KafkaTopicConfig {
+
+}
